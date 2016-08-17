@@ -38,18 +38,3 @@
 教育经历
 ---
 XXXX大学　　　计算机科学与工程学院　　　网络工程（本科/工科学士）　　　2008/09-2012/07
-
-<div class="ds-thread" data-thread-key="comment" data-title="评论" data-url="http://git.wasis.cn/comment.html"></div>
-							<!-- 多说评论框 end -->
-							<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-							<script type="text/javascript">
-							var duoshuoQuery = {short_name:"git-wasis"};
-								(function() {
-									var ds = document.createElement('script');
-									ds.type = 'text/javascript';ds.async = true;
-									ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-									ds.charset = 'UTF-8';
-									(document.getElementsByTagName('head')[0] 
-									 || document.getElementsByTagName('body')[0]).appendChild(ds);
-								})();
-							</script>
